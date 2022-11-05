@@ -1,4 +1,4 @@
-# Card
+# Card (Figurinha)
 projeto simples de uma card 
 
 ## 🚀 Tecnologias
